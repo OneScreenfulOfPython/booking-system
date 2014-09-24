@@ -1,10 +1,15 @@
 A Room Booking System
 =====================
 
+This project forms part of the One Screenful of Python github organisation. For more
+information about that idea, see the README in the screenfuls repo:
+
+https://github.com/OneScreenfulOfPython/screenfuls/blob/master/README.md
+
 Summary
 -------
 
-Build a booking system (ostensibly for Rooms but could be for
+Build a booking system (ostensibly for rooms but could be for
 anything: gym equipment, library books etc.).
 
 Background Requiements
