@@ -23,13 +23,13 @@ Background Requiements
   useful as it makes it possible to experiment easily at the command
   line, eg:
 
-  import bookings
+      import bookings
 
-  bookings.create_database()
-  bookings.populate_database()
-  print(bookings.get_user(1))
-  print(bookings.get_room(1))
-  bookings.add_booking_to_database(1, 1, '2014-11-18', '12:00')
+      bookings.create_database()
+      bookings.populate_database()
+      print(bookings.get_user(1))
+      print(bookings.get_room(1))
+      bookings.add_booking_to_database(1, 1, '2014-11-18', '12:00')
 
 
 Project Requirements
